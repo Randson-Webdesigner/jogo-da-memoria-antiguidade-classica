@@ -308,6 +308,7 @@
         </style>
     </head>
     <body>
+        <h2>Jogo da Memoria - Trabalho na Antiguidade Clássica<h2>        
         <div class="game-container">
             <div class="timer" id="timer"><?php echo $formattedTime; ?></div>
             
